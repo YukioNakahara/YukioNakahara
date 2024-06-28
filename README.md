@@ -1,4 +1,4 @@
-# Olá, me chamo Bruno Yukio! 
+# Olá, me chamo Bruno Nakahara! 
 ## Bem vindo ao meu perfil do GitHub 👋
 
 ## 🖥 Tecnologia e ferramentas
